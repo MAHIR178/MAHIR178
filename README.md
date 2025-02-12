@@ -1,7 +1,7 @@
 <h1 align="center">Hi, Welcome here! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=Trying to learn +%7C />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=Trying+to+learn+%7C+Exploring+new+technologies+%7C+Building+cool+projects" />
 </p>
 
 ---
