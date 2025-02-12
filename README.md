@@ -4,7 +4,7 @@
 </p>
 
 <!-- GitHub Stats Side by Side -->
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=ImamHasnat&show_icons=true&theme=radical&count_private=true" loading="lazy" />
   <!-- For long horizontal language list -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamHasnat&layout=compact&theme=radical&langs_count=10" style="display: flex; flex-wrap: nowrap;" loading="lazy" />
