@@ -23,3 +23,37 @@
     <img src="https://img.shields.io/badge/ResearchGate-00CC66?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate" />
   </a>
 </p>
+<h3 style="margin-top: 0; margin-bottom: 5px;"><small>Hi, Welcome here!</small></h3>
+<p style="margin-bottom: 5px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=00CFFF&center=false&vCenter=false&width=350&lines=Trying+to+learn+everyday;Computer+science+cooked+me" />
+</p>
+
+<!-- GitHub Stats Side by Side -->
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ImamHasnat&show_icons=true&theme=radical&count_private=true" loading="lazy" />
+  <!-- For long horizontal language list -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamHasnat&layout=compact&theme=radical&langs_count=10" style="display: flex; flex-wrap: nowrap;" loading="lazy" />
+</div>
+
+<h3 style="margin-top: 10px; margin-bottom: 5px;">Let's Connect</h3>
+
+<p style="margin-top: 0; margin-bottom: 10px;">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://imammam070.my.canva.site/1" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.researchgate.net/profile/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CC66?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
+  </a>
+</p>
+
+<!-- Dynamic Tech Icons -->
+<p style="margin-top: 10px;">
+  <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+  <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+  <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+</p>
