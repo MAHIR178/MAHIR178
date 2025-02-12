@@ -2,15 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=00CFFF&center=false&vCenter=false&width=350&lines=Hi,+Welcome+here!" />
 </p>
 
-<!-- Dynamic Language Icons -->
-<p style="margin-top: 5px;">
-  <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="20" alt="r" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-  <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-</p>
-
 <!-- GitHub Stats Side by Side -->
 <div style="display: flex; gap: 20px; background-color: #000000; padding: 20px; border-radius: 10px; border: 2px solid #003A3A;">
   <img src="https://github-readme-stats.vercel.app/api?username=ImamHasnat&show_icons=true&count_private=true&bg_color=000000&title_color=B22222&text_color=4F9B9B&icon_color=87CEEB&border_color=003A3A" loading="lazy" />
@@ -18,7 +9,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamHasnat&layout=compact&langs_count=10&bg_color=000000&title_color=B22222&text_color=4F9B9B&icon_color=87CEEB&border_color=003A3A" style="display: flex; flex-wrap: nowrap;" loading="lazy" />
 </div>
 
-<p>
+<p style="margin-top: 0px;">
+  <strong>Let's connect</strong>
+</p>
+<p style="margin-top: 5px;">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
