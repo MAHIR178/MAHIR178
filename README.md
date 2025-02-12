@@ -11,13 +11,11 @@
   <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 </p>
 <!-- GitHub Stats Side by Side -->
-<div style="display: flex; gap: 20px; background-color: #1E2A47; padding: 20px; border-radius: 10px;">
+<div style="display: flex; gap: 20px; background-color: #000000; padding: 20px; border-radius: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ImamHasnat&show_icons=true&theme=radical&count_private=true&text_color=3CB371" loading="lazy" />
   <!-- For long horizontal language list -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamHasnat&layout=compact&theme=radical&langs_count=10&text_color=3CB371" style="display: flex; flex-wrap: nowrap;" loading="lazy" />
 </div>
-
-
 <h3 style="margin-top: 10px;">Let's Connect</h3>
 
 <p>
