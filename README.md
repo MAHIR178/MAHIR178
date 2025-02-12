@@ -1,20 +1,8 @@
-# Imam-Hasnat
-
-<h1 align="center">Hi, I'm Emam Hossain! 👋</h1>
-<h3 align="center">A passionate app developer and AI enthusiast</h3>
+<h1 align="center">Hi, Welcome here! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+AI+Enthusiast;Passionate+about+Machine+Learning;Building+Innovative+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=Trying to learn +%7C />
 </p>
-
----
-
-### 🚀 About Me
-- 🎓 **CSE Student at AIUB**
-- 💻 App developer with expertise in **Python, AI, and software development**
-- 📸 Active in **Photography and Environmental Clubs**
-- 🌍 Interested in **sustainability & tech for real-world problems**
-- 🔍 Exploring **Machine Learning & AI innovations**
 
 ---
 
@@ -34,6 +22,6 @@
 ---
 
 ### 📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/EmamHossain)
