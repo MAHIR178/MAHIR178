@@ -6,7 +6,12 @@
 
 ### GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Imamm9&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Imamm9&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs" loading="lazy" />
+</p>
+
+### Most Used Languages
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imamm9&layout=compact&theme=radical" loading="lazy" />
 </p>
 
 ### Let's Connect
