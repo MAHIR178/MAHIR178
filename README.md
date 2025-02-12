@@ -15,13 +15,13 @@
 
 ### 📫 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/yourprofile" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://imammam070.my.canva.site/1" target="_blank">
+  <a href="https://imammam070.my.canva.site/1" target="blank">
     <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.researchgate.net/profile/yourprofile" target="_blank">
+  <a href="https://www.researchgate.net/profile/yourprofile" target="blank">
     <img src="https://img.shields.io/badge/-ResearchGate-00CC66?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate" />
   </a>
 </p>
