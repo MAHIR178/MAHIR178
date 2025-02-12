@@ -10,11 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamHasnat&layout=compact&theme=radical&langs_count=10" style="display: flex; flex-wrap: nowrap;" loading="lazy" />
 </div>
 
-<!-- GitHub Contribution Calendar -->
-<div style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImamHasnat&theme=radical" loading="lazy" />
-</div>
-
 <h3 style="margin-top: 10px;">Let's Connect</h3>
 
 <p>
