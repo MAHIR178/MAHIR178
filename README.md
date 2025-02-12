@@ -5,7 +5,7 @@
 
 <!-- GitHub Stats Side by Side -->
 <div style="display: flex; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImamHasnat&show_icons=true&theme=radical&count_private=true&hide=prs" loading="lazy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ImamHasnat&show_icons=true&theme=radical&count_private=true" loading="lazy" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamHasnat&layout=compact&theme=radical" loading="lazy" />
 </div>
 
