@@ -9,9 +9,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamHasnat&layout=compact&langs_count=10&bg_color=000000&title_color=B22222&text_color=4F9B9B&icon_color=87CEEB&border_color=003A3A" style="display: flex; flex-wrap: nowrap;" loading="lazy" />
 </div>
 
-<!-- "Let's connect" in bold, cyan, and smaller font size -->
+<!-- Add extra space here -->
 <div style="text-align: center; margin-top: 10px;">
-  <div style="margin-top: 3px;">
+  <strong style="font-size: 6px; color: #00CFFF;">Let's connect</strong>
+  <div style="margin-top: 10px;">
     <a href="https://linkedin.com/in/yourprofile" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
