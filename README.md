@@ -2,9 +2,8 @@
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=00CFFF&center=false&vCenter=false&width=350&lines=Trying+to+learn+everyday;Computer+science+cooked+me" />
 </p>
-| <img src="https://github-readme-stats.vercel.app/api?username=ImamHasnat&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs" loading="lazy" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamHasnat&layout=compact&theme=radical" loading="lazy" /> |
-| --- | --- |
-### **Let's Connect**
+ <img src="https://github-readme-stats.vercel.app/api?username=ImamHasnat&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs" loading="lazy" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamHasnat&layout=compact&theme=radical" loading="lazy" /> 
+#Let's Connect
 <p>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
