@@ -18,9 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamHasnat&layout=compact&langs_count=10&bg_color=000000&title_color=B22222&text_color=4F9B9B&icon_color=87CEEB&border_color=003A3A" style="display: flex; flex-wrap: nowrap;" loading="lazy" />
 </div>
 
-
-<h3 style="margin-top: 10px;">Let's Connect</h3>
-
 <p>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
