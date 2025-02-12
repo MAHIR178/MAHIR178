@@ -11,7 +11,6 @@
 
 <!-- "Let's connect" in bold, cyan, and smaller font size -->
 <div style="text-align: center; margin-top: 10px;">
-  <strong style="color: #00CFFF; font-size: 8px;">Let's connect</strong>
   <div style="margin-top: 3px;">
     <a href="https://linkedin.com/in/yourprofile" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
