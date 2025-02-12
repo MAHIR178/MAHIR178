@@ -1,23 +1,20 @@
-<h1><small>Hi, Welcome here!</small></h1>
-
+<h3><small>Hi, Welcome here!</small></h3>
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CFFF&center=false&vCenter=false&width=500&lines=Trying+to+learn+everyday;Computer+science+cooked+me" />
 </p>
 
-### GitHub Stats & Most Used Languages
-<div style="display: flex; justify-content: space-between; max-width: 1400px; margin: 20px auto; gap: 20px;">
-  <!-- GitHub Stats Box -->
-  <div style="border: 2px solid #2d2d2d; padding: 20px; border-radius: 10px; background-color: #1e1e1e; text-align: center; flex: 1; min-width: 45%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Imamm9&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs" loading="lazy" />
-  </div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ImamHasnat&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs" loading="lazy" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamHasnat&layout=compact&theme=radical" loading="lazy" />
+    </td>
+  </tr>
+</table>
 
-  <!-- Most Used Languages Box -->
-  <div style="border: 2px solid #2d2d2d; padding: 20px; border-radius: 10px; background-color: #1e1e1e; text-align: center; flex: 1; min-width: 45%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imamm9&layout=compact&theme=radical" loading="lazy" />
-  </div>
-</div>
-
-### Let's Connect
+### **Let's Connect**
 <p>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
