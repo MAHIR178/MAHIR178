@@ -10,12 +10,14 @@
   <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 </p>
+
 <!-- GitHub Stats Side by Side -->
-<div style="display: flex; gap: 20px; background-color: #050505; padding: 20px; border-radius: 10px; border: 1px solid #008080;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImamHasnat&show_icons=true&count_private=true&bg_color=050505&title_color=87CEEB&text_color=20B2AA&icon_color=87CEEB&border_color=008080" loading="lazy" />
+<div style="display: flex; gap: 20px; background-color: #000000; padding: 20px; border-radius: 10px; border: 2px solid #003300;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ImamHasnat&show_icons=true&count_private=true&bg_color=000000&title_color=FF7F50&text_color=66B2B2&icon_color=87CEEB&border_color=003300" loading="lazy" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamHasnat&layout=compact&langs_count=10&bg_color=050505&title_color=87CEEB&text_color=20B2AA&icon_color=87CEEB&border_color=008080" style="display: flex; flex-wrap: nowrap;" loading="lazy" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamHasnat&layout=compact&langs_count=10&bg_color=000000&title_color=FF7F50&text_color=66B2B2&icon_color=87CEEB&border_color=003300" style="display: flex; flex-wrap: nowrap;" loading="lazy" />
 </div>
+
 
 
 <h3 style="margin-top: 10px;">Let's Connect</h3>
