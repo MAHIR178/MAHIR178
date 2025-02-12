@@ -10,7 +10,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamHasnat&layout=compact&theme=radical" 
        loading="lazy" style="opacity: 0; animation: fadeIn 1s forwards 0.5s;" />
 </div>
-
+<style>
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+</style>
 ### **Let's Connect**
 <p>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
