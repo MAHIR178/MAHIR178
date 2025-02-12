@@ -1,18 +1,20 @@
-<h1>Hi, Welcome here!</h1>
+<h1>Hi, Welcome!</h1>
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CFFF&center=false&vCenter=false&width=500&lines=Trying+to+learn+everyday;Computer+science+cooked+me" />
 </p>
 
-### GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Imamm9&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs" loading="lazy" />
-</p>
+<div style="display: flex; justify-content: space-between; max-width: 1400px; margin: 20px auto; gap: 20px;">
+  <!-- GitHub Stats Box -->
+  <div style="border: 2px solid #2d2d2d; padding: 20px; border-radius: 10px; background-color: #1e1e1e; text-align: center; flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Imamm9&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs" loading="lazy" />
+  </div>
 
-### Most Used Languages
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imamm9&layout=compact&theme=radical" loading="lazy" />
-</p>
+  <!-- Most Used Languages Box -->
+  <div style="border: 2px solid #2d2d2d; padding: 20px; border-radius: 10px; background-color: #1e1e1e; text-align: center; flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imamm9&layout=compact&theme=radical" loading="lazy" />
+  </div>
+</div>
 
 ### Let's Connect
 <p>
