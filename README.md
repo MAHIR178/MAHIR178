@@ -11,11 +11,12 @@
   <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 </p>
 <!-- GitHub Stats Side by Side -->
-<div style="display: flex; gap: 20px; background-color: #0A0A0A; padding: 20px; border-radius: 10px; border: 1px solid #2E8B57;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImamHasnat&show_icons=true&theme=radical&count_private=true&text_color=2E8B57" loading="lazy" />
-  <!-- For long horizontal language list -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamHasnat&layout=compact&theme=radical&langs_count=10&text_color=2E8B57" style="display: flex; flex-wrap: nowrap;" loading="lazy" />
+<div style="display: flex; gap: 20px; background-color: #050505; padding: 20px; border-radius: 10px; border: 1px solid #008080;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ImamHasnat&show_icons=true&count_private=true&bg_color=050505&title_color=87CEEB&text_color=20B2AA&icon_color=87CEEB&border_color=008080" loading="lazy" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamHasnat&layout=compact&langs_count=10&bg_color=050505&title_color=87CEEB&text_color=20B2AA&icon_color=87CEEB&border_color=008080" style="display: flex; flex-wrap: nowrap;" loading="lazy" />
 </div>
+
 
 <h3 style="margin-top: 10px;">Let's Connect</h3>
 
