@@ -1,5 +1,5 @@
 <p style="margin-bottom: 5px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=70&color=00CFFF&center=false&vCenter=false&width=350&lines=Hi,+Welcome+here!;Trying+to+learn+everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=70&color=00CFFF&center=false&vCenter=false&width=350&lines=Hi,+Welcome+here!;Trying+to+learn+everyday!" />
 </p>
 
 <!-- GitHub Stats Side by Side -->
