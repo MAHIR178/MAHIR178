@@ -9,8 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamHasnat&layout=compact&langs_count=10&bg_color=000000&title_color=B22222&text_color=4F9B9B&icon_color=87CEEB&border_color=003A3A" style="display: flex; flex-wrap: nowrap;" loading="lazy" />
 </div>
 
-<p>
-</p>
+<p></p>
 <p style="margin-top: 5px;">
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -20,5 +19,11 @@
   </a>
   <a href="https://www.researchgate.net/profile/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/ResearchGate-00CC66?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate" />
+  </a>
+  <a href="https://leetcode.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
