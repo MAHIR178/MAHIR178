@@ -17,13 +17,13 @@
   <a href="https://imammam070.my.canva.site/1" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.researchgate.net/profile/yourprofile" target="_blank">
+  <a href="https://www.researchgate.net/profile/Imam-Hasnat/research" target="_blank">
     <img src="https://img.shields.io/badge/ResearchGate-00CC66?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate" />
   </a>
-  <a href="https://leetcode.com/yourprofile" target="_blank">
+  <a href="https://leetcode.com/u/Imam_Hasnat/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.hackerrank.com/yourprofile" target="_blank">
+  <a href="https://www.hackerrank.com/profile/imamhasnat3" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
