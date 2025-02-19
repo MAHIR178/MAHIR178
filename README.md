@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ImamHasnat&show_icons=true&count_private=true&bg_color=000000&title_color=B22222&text_color=4F9B9B&icon_color=87CEEB&border_color=003A3A" loading="lazy" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImamHasnat&layout=compact&langs_count=10&bg_color=000000&title_color=B22222&text_color=4F9B9B&icon_color=87CEEB&border_color=003A3A" style="display: flex; flex-wrap: nowrap;" loading="lazy" />
-</div>
+</div>>
 
 <p></p>
 <p style="margin-top: 5px;">
