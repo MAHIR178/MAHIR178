@@ -6,7 +6,7 @@
 <div style="display: flex; gap: 20px; background-color: #000000; padding: 20px; border-radius: 10px; border: 2px solid #003A3A;">
   <img src="https://github-readme-stats.vercel.app/api?username=Mahir Shariar Ratul &show_icons=true&count_private=true&bg_color=000000&title_color=B22222&text_color=4F9B9B&icon_color=87CEEB&border_color=003A3A" loading="lazy" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahir &layout=compact&langs_count=10&bg_color=000000&title_color=B22222&text_color=4F9B9B&icon_color=87CEEB&border_color=003A3A" style="display: flex; flex-wrap: nowrap;" loading="lazy" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahir178 &layout=compact&langs_count=10&bg_color=000000&title_color=B22222&text_color=4F9B9B&icon_color=87CEEB&border_color=003A3A" style="display: flex; flex-wrap: nowrap;" loading="lazy" />
 </div>
 
 <p></p>
