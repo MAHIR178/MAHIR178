@@ -15,11 +15,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
  
-  <a href="[https://www.researchgate.net/profile/Imam-Hasnat/research](https://www.researchgate.net/profile/Mahir-Ratul?ev=hdr_xprf)" target="_blank">
+  <a href="https://www.researchgate.net/profile/Mahir-Ratul?ev=hdr_xprf" target="_blank">
     <img src="https://img.shields.io/badge/ResearchGate-00CC66?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate" />
   </a>
-  <a href="https://leetcode.com/u/Imam_Hasnat/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
+ 
   
 </p>
